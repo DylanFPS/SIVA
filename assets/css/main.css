@@ -1804,6 +1804,22 @@
 		background-repeat: no-repeat;
 	}
 
+	/*#intro {
+		z-index: 2;
+	}
+
+	#header {
+		z-index: 2;
+	}
+
+	#nav {
+		z-index: 2;
+	}
+
+	#main {
+		z-index: 2;
+	}*/
+
 	canvas{
 		display:block;
 		vertical-align:bottom;
