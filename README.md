@@ -7,7 +7,7 @@ Bot Stats:
 [![Discord Bots](https://discordbots.org/api/widget/lib/320942091049893888.svg)](https://discordbots.org/bot/320942091049893888)
 
 
-**This repository only has code for the website.** This is simply for the wiki and the [website](https://greemdotcs.github.io). 
+**You don't get ANY support for attempting to selfhost the bot. It isn't supported.** 
 
 [Feature Requests](https://feathub.com/Greeem/greeem.github.io)
 
