@@ -7,7 +7,7 @@ Bot Stats:
 [![Discord Bots](https://discordbots.org/api/widget/lib/320942091049893888.svg)](https://discordbots.org/bot/320942091049893888)
 
 
-**You don't get ANY support for attempting to selfhost the bot. It isn't supported.** 
+## There is no code on this repo.
 
 [Feature Requests](https://feathub.com/Greeem/greeem.github.io)
 
